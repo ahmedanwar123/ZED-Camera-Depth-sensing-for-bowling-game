@@ -56,10 +56,6 @@ This project is a bowling game played using the Zed Camera Depth Sensor. The Zed
 ###	System Description
 This undertaking entails the implementation of a bowling game leveraging the Zed Camera Depth Sensor. The Zed Camera, functioning as a stereo camera system, employs the acquisition of two meticulously synchronized images from distinct viewpoints to facilitate depth perception. Consequently, this setup facilitates the computation of object depths within the captured scene, enabling the creation of interactive applications such as games by utilizing this acquired depth information.
 
-![Pose estimation image](https://drive.google.com/file/d/1QxMHT7agyP1CDrdJ-8OxqCeKe3AoeC5f/view?usp=drive_link)
-![Pose estimation video](https://drive.google.com/file/d/1EXuOAvnkB6XJK8MsmdQWABa_0rKXeil-/view?usp=drive_link)
-
-
 
 ## Python Programming :
 
